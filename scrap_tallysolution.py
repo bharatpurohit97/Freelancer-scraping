@@ -1,5 +1,5 @@
 """
-Author : Rakesh Sharma, Bharat Purohit
+Rakesh Sharma, Bharat Purohit
 
 Freelancing project
 
