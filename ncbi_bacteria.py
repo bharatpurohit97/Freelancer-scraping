@@ -2,7 +2,6 @@
 
 All Organism name and ID's of Bacteria  
 
-Authors : Rakesh Sharma, Bharat Purohit
 requirement : Bio package python
 
 """
