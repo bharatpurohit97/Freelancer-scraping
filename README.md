@@ -14,3 +14,10 @@
   
   Using ncbi_bacteria.py Extract all  22464 organism names and id in one go.
   extracxted data is added in ncbi_bacteria.xlsx.
+  
+  
+  
+  ### 3. Scraping of Contact information of CHILDCARE
+  
+  Scrape Contact Informations of [mychild.gov.au](http://ifp.mychild.gov.au/mvc/SearchResults/ShowChildCareResults) using scrap_childcare.py.
+  sample of result is shown in scrap_childcare.csv
