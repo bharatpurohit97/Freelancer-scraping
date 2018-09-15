@@ -1,6 +1,5 @@
 """
 
-Author : Rakesh Sharma, Bharat Purohit
 
 Requirement : bs4, urllib, selenium
 Edit path of chrome driver and csv file name
